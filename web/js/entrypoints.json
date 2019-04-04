@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "web/js/app.js"
+      ]
+    },
+    "login": {
+      "js": [
+        "web/js/login.js"
+      ]
+    },
+    "calender": {
+      "css": [
+        "web/js/calender.css"
+      ],
+      "js": [
+        "web/js/calender.js"
+      ]
+    }
+  }
+}

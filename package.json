@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@babel/preset-react": "7.0.0",
+    "@symfony/webpack-encore": "^0.26.0",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "encore": "^0.0.30-beta",
+    "json5": "^2.1.0",
+    "rc-time-picker": "^3.6.2",
+    "react-bootstrap": "0.30.3",
+    "react-bootstrap-time-picker": "^1.0.3",
+    "react-dropdown-timepicker": "^1.0.4",
+    "react-time-picker": "^3.5.1"
+  }
+}
